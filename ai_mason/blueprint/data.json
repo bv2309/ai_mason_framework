@@ -1,0 +1,22 @@
+{
+  "domain_entities": null,
+  "relational_schema": null,
+  "nosql_schema": null,
+  "data_ownership": null,
+  "migration_strategy": null,
+  "seed_data_strategy": null,
+  "data_retention_policy": null,
+  "archival_policy": null,
+  "pii_classification": null,
+  "encryption_at_rest": null,
+  "encryption_in_transit": null,
+  "data_access_patterns": null,
+  "caching_strategy": null,
+  "search_indexing_strategy": null,
+  "analytics_warehouse_model": null,
+  "event_schema_registry": null,
+  "backup_restore_strategy": null,
+  "data_quality_rules": null,
+  "lineage_catalog": null,
+  "disaster_recovery_rpo_rto": null
+}

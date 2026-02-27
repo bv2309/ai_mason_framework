@@ -1,0 +1,20 @@
+{
+  "operational_model": null,
+  "ownership_oncall": null,
+  "runbooks": null,
+  "incident_management": null,
+  "problem_management": null,
+  "change_management": null,
+  "service_catalog": null,
+  "observability_operations": null,
+  "backup_operations": null,
+  "disaster_recovery_operations": null,
+  "capacity_operations": null,
+  "cost_finops": null,
+  "support_escalation": null,
+  "maintenance_windows": null,
+  "operational_readiness_reviews": null,
+  "game_days": null,
+  "sla_slo_reporting": null,
+  "third_party_dependency_operations": null
+}

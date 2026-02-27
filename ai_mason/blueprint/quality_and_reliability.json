@@ -1,0 +1,21 @@
+{
+  "quality_goals": null,
+  "test_strategy": null,
+  "unit_testing": null,
+  "integration_testing": null,
+  "e2e_testing": null,
+  "contract_testing": null,
+  "performance_testing": null,
+  "chaos_testing": null,
+  "reliability_targets_slos": null,
+  "error_budget_policy": null,
+  "observability_standards": null,
+  "alerting_standards": null,
+  "incident_response_process": null,
+  "postmortem_process": null,
+  "resilience_patterns": null,
+  "capacity_and_load_goals": null,
+  "accessibility_quality": null,
+  "localization_quality": null,
+  "continuous_quality_metrics": null
+}

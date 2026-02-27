@@ -1,0 +1,22 @@
+{
+  "identity_access_management": null,
+  "authentication_strategy": null,
+  "authorization_strategy": null,
+  "session_management": null,
+  "secrets_rotation": null,
+  "key_management": null,
+  "network_security_controls": null,
+  "application_security_controls": null,
+  "api_security_controls": null,
+  "data_protection_controls": null,
+  "vulnerability_management": null,
+  "supply_chain_security": null,
+  "threat_modeling": null,
+  "security_testing": null,
+  "audit_logging": null,
+  "incident_response_security": null,
+  "compliance_frameworks": null,
+  "policy_as_code": null,
+  "vendor_risk_management": null,
+  "privacy_requirements": null
+}

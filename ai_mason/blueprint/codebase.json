@@ -1,0 +1,21 @@
+{
+  "repo_strategy": null,
+  "project_structure": null,
+  "coding_standards": null,
+  "api_layer_patterns": null,
+  "application_layer_patterns": null,
+  "domain_layer_patterns": null,
+  "infrastructure_layer_patterns": null,
+  "shared_libraries": null,
+  "dependency_management": null,
+  "configuration_management": null,
+  "feature_flagging": null,
+  "i18n_l10n": null,
+  "error_handling_patterns": null,
+  "logging_standards": null,
+  "build_scripts": null,
+  "local_dev_workflows": null,
+  "test_data_factories": null,
+  "code_generation_templates": null,
+  "deprecation_policy": null
+}

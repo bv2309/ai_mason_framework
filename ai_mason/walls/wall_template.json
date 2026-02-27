@@ -1,0 +1,14 @@
+{
+  "wall_id": "<unique_wall_id>",
+  "title": "<short_wall_title>",
+  "status": "draft",
+  "intent": "<what this wall asks the AI to generate or change>",
+  "brick_sources": [
+    "<brick_path_1>",
+    "<brick_path_2>"
+  ],
+  "dependencies": [
+    "<optional: wall ids or brick ids this wall depends on>"
+  ],
+  "open_question": "<unknown to resolve before wall execution>"
+}

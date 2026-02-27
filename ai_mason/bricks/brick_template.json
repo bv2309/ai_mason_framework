@@ -1,0 +1,31 @@
+{
+  "brick_id": "<unique_brick_id>",
+  "title": "<short_human_title>",
+  "status": "draft",
+  "intent": "<what this brick asks the AI to generate or change>",
+  "instructions": [
+    {
+      "id": "<instruction_id>",
+      "priority": "must",
+      "instruction": "<human-readable instruction>",
+      "acceptance_criteria": [
+        "<observable outcome 1>",
+        "<observable outcome 2>"
+      ],
+      "constraints": [
+        "<constraint 1>",
+        "<constraint 2>"
+      ],
+      "notes": "<extra context for implementation>",
+      "suggested_core_targets": [
+        "<optional: ai_mason/core file.field path>"
+      ]
+    }
+  ],
+  "dependencies": [
+    "<optional: brick ids this brick depends on>"
+  ],
+  "open_questions": [
+    "<unknowns to resolve before implementation>"
+  ]
+}

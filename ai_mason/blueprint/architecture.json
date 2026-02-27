@@ -1,0 +1,19 @@
+{
+  "system_context": null,
+  "bounded_contexts": null,
+  "module_boundaries": null,
+  "component_diagram": null,
+  "api_style": null,
+  "integration_patterns": null,
+  "data_flow": null,
+  "eventing_strategy": null,
+  "consistency_model": null,
+  "transaction_boundaries": null,
+  "scalability_strategy": null,
+  "tenancy_model": null,
+  "versioning_strategy": null,
+  "backward_compatibility_policy": null,
+  "failure_modes": null,
+  "architectural_decisions_adrs": null,
+  "build_vs_buy_decisions": null
+}

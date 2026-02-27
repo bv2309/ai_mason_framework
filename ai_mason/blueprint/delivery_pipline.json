@@ -1,0 +1,20 @@
+{
+  "source_control_flow": null,
+  "branch_protection_rules": null,
+  "ci_pipeline_stages": null,
+  "test_gates": null,
+  "security_gates": null,
+  "artifact_build_strategy": null,
+  "artifact_registry": null,
+  "release_versioning": null,
+  "deployment_strategies": null,
+  "progressive_delivery": null,
+  "rollback_strategy": null,
+  "environment_promotion_rules": null,
+  "database_migration_delivery": null,
+  "infrastructure_delivery": null,
+  "release_notes_automation": null,
+  "change_approval_workflow": null,
+  "sbom_and_provenance": null,
+  "post_deploy_verification": null
+}

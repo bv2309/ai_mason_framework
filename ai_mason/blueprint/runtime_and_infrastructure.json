@@ -1,0 +1,23 @@
+{
+  "compute_platforms": null,
+  "containerization_strategy": null,
+  "orchestration_strategy": null,
+  "networking_topology": null,
+  "ingress_egress": null,
+  "service_discovery": null,
+  "load_balancing_strategy": null,
+  "edge_cdn_strategy": null,
+  "environments": null,
+  "environment_parity": null,
+  "infrastructure_as_code": null,
+  "secrets_management": null,
+  "certificate_management": null,
+  "configuration_distribution": null,
+  "message_brokers": null,
+  "scheduled_jobs_runtime": null,
+  "storage_infrastructure": null,
+  "observability_infrastructure": null,
+  "cost_controls": null,
+  "capacity_planning": null,
+  "multi_region_strategy": null
+}

@@ -1,0 +1,21 @@
+{
+  "documentation_strategy": null,
+  "readme_onboarding": null,
+  "architecture_docs": null,
+  "adrs": null,
+  "api_docs": null,
+  "data_docs": null,
+  "runbooks_docs": null,
+  "security_docs": null,
+  "product_docs": null,
+  "release_notes": null,
+  "changelog_policy": null,
+  "contribution_guidelines": null,
+  "coding_guidelines_docs": null,
+  "decision_log": null,
+  "project_management_process": null,
+  "communication_channels": null,
+  "meeting_cadence": null,
+  "knowledge_transfer_plan": null,
+  "onboarding_checklists": null
+}
