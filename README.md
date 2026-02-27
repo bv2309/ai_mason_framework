@@ -1,4 +1,4 @@
-# AI Mason
+# AI Mason V1
 
 AI Mason is a context-building framework for AI-assisted software delivery.
 It defines a repeatable way to turn scattered requirements into a structured blueprint that tools like OpenAI Codex can execute against.
