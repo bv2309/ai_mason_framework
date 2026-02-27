@@ -23,7 +23,7 @@
     }
   ],
   "dependencies": [
-    "<optional: brick ids this brick depends on>"
+    "<optional: brick IDs this brick depends on>"
   ],
   "open_questions": [
     "<unknowns to resolve before implementation>"

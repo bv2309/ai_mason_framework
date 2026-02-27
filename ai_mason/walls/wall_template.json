@@ -8,7 +8,7 @@
     "<brick_path_2>"
   ],
   "dependencies": [
-    "<optional: wall ids or brick ids this wall depends on>"
+    "<optional: wall IDs or brick IDs this wall depends on>"
   ],
-  "open_question": "<unknown to resolve before wall execution>"
+  "open_question": "<an unknown to resolve before wall execution>"
 }

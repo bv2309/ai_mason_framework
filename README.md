@@ -14,7 +14,7 @@ AI Mason organizes project intent in three layers:
 The `openai_mason.json` file acts like a compiler profile. Its `build_wall` instruction describes how to:
 
 1. Load the selected wall and all referenced bricks.
-2. Sort and map that context into blueprint categories/sub-categories.
+2. Sort and map that context into blueprint categories/subcategories.
 3. Fill blueprint fields with implementation-ready guidance.
 4. Validate completeness and ask for feedback when context is insufficient.
 

@@ -1,20 +1,20 @@
 {
   "compiler_id": "openai_mason",
-  "description": "Mean, lean wall building machine. This is the mason everyone in town is talking about.",
-  "intent": "Set of instructions that make the ai mason go brrr.",
+  "description": "Mean, lean wall-building machine. This is the mason everyone in town is talking about.",
+  "intent": "A set of instructions that makes AI Mason go brrr.",
   "instructions": [
     {
       "id": "build_wall",
       "priority": -1,
-      "instruction": "Load in entire context from each brick referenced in the wall being built, load in wall context. Sort the loaded context by ai_mason/blueprint software defining blueprint categories (json file names) and software defining blueprint sub-categories (keys found inside ai_mason/blueprint/* json files). Update software defining blueprint sub-category values with prompts that instruct OpenAI CODEX on how to build context defined software in a format you see fit but do not change the sub-categories.",
+      "instruction": "Load the entire context from each brick referenced by the wall being built, and load the wall context. Sort the loaded context by the software-defining blueprint categories (JSON filenames in ai_mason/blueprint) and software-defining blueprint subcategories (keys found inside ai_mason/blueprint/*.json files). Update the software-defining blueprint subcategory values with prompts that instruct OpenAI Codex on how to build the context-defined software, in a format you see fit, but do not change the subcategories.",
       "acceptance_criteria": [
-        "Assert that context listed in wall and it's related bricks is fully represented inside blueprint files.",
-        "If blueprint is not complete in a way that OpenAI CODEX can generate software by current industry standards for it's given purpose, ask for feedback.",
+        "Assert that the context listed in the wall and its related bricks is fully represented inside the blueprint files.",
+        "If the blueprint is not complete enough for OpenAI Codex to generate software that meets current industry standards for its given purpose, ask for feedback.",
         "Use any given feedback to update existing bricks in order to complete the context needed to finish."
       ],
       "constraints": [
-        "Do not use bricks that are outside wall being built.",
-        "Do not use walls that are not the one being currently built."
+        "Do not use bricks that are outside the wall being built.",
+        "Do not use walls other than the one currently being built."
       ],
       "notes": ""
     }
@@ -23,7 +23,7 @@
     "ai_mason/blueprint/architecture.json",
     "ai_mason/blueprint/codebase.json",
     "ai_mason/blueprint/data.json",
-    "ai_mason/blueprint/delivery_pipline.json",
+    "ai_mason/blueprint/delivery_pipeline.json",
     "ai_mason/blueprint/documentation_and_collaboration.json",
     "ai_mason/blueprint/operations.json",
     "ai_mason/blueprint/product.json",
