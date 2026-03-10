@@ -3,9 +3,7 @@
 AI Mason is a context-building framework for AI-assisted software delivery.
 It defines a repeatable way to turn scattered requirements into a structured blueprint that tools like OpenAI Codex can execute against.
 
-The intended use is to teach the concept of the Codex app and the Claude app to younger generations on a simplified example.
-
-Have fun building!
+The intended use is to teach younger generations the concepts behind the Codex app and the Claude app through a simplified example.
 
 ![AI Mason V1](ai_mason/bv2309.png)
 
